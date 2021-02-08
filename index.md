@@ -12,7 +12,7 @@
 </h1>
 
 
-</p>
+
 <p align="center">
 
 <a href="https://pufffins.github.io/emulator">

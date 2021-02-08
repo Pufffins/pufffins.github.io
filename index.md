@@ -22,21 +22,21 @@
 <a href="https://appetize.io">
 	<button>Appetize.io</button>
 </a>
-<!--
-<a href="https://discord.com/invite/XQDfbfq">
-	<img src="https://img.shields.io/discord/683793361123016755.svg?color=7289da&label=Discord&logo=discord&style=flat-square">
+
+<a href="about:blank">
+	<Button>Coming Soon</button>
 </a>
-<!--
-<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/graphs/contributors">
-	<img src="https://img.shields.io/github/contributors/Prodigy-Hacking/ProdigyMathGameHacking.svg?style=flat">
+
+<a href="about:blank">
+	<Button>Coming Soon</button>
 </a>
-<!--
-<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/blob/master/LICENSE">
-	<img src="https://img.shields.io/badge/License-MPL%20v2.0-yellow.svg">
+
+<a href="about:blank">
+	<Button>Coming Soon</button>
 </a>
-<!--
-<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/pulse">
-	<img src="https://img.shields.io/github/commit-activity/m/Prodigy-Hacking/ProdigyMathGameHacking">
+
+<a href="about:blank">
+	<Button>Coming Soon</button>
 </a>
 
 </p>

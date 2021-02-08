@@ -45,6 +45,6 @@
 
 
 
-## About Me
-I make webpages and I code.
+<h1>About Me</h1>
+<p>I make webpages and I code.</p>
 
